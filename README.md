@@ -7,12 +7,14 @@ https://hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html is a small mac
 
 The Matlab code, datasets and theory about the simulation and fitting can all be found in the site of the tutorial. Parts of it has be reproduced in Python in a Jupyter Notebook. The dataset that I've used is downloaded from site. 
 
+
 **2. Brief Description** 
 
 <br>
 In the Gambling Game, there are two slot machines. Each dispenses a coin with an unknown probability. The player tries to choose the machine that will most likely dispense a coin. Each such choice constitutes 1 trial. There are 135 trials in total. In each trial, exactly 1 machine dispenses a coin. 
 
 We use a Reinforcement Learning model and a Bayesian Learning model to simulate and fit the behavioral data provided in the dataset. 
+
 
 **3. The Dataset** 
 
