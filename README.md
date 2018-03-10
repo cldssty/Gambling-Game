@@ -17,11 +17,11 @@ Two of the fields that '**data**' contains are:
 
 1. **'choice'** 
 
-  'choice' contains a 135x2 array. Each column corresponds to a machine, and if at row i the entry in a column is 1, then the player has chosen the corresponding machine at trial i. Else, they haven't. 
+    'choice' contains a 135x2 array. Each column corresponds to a machine, and if at row i the entry in a column is 1, then the player has      chosen the corresponding machine at trial i. Else, they haven't. 
 
 2. **'prep'**
 
-  'prep' is a structure array. Two of the fields it contains are: 
+    'prep' is a structure array. Two of the fields it contains are: 
   
    - **'feedback'**. 'feedback' is a 135x2 array. Each column corresponds to a machine, and if at row i the entry in a column is 1, then the corresponding machine dispenses a coin at trial i. Else, they don't.
 
