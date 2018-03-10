@@ -22,9 +22,9 @@ We use a Reinforcement Learning model and a Bayesian Learning model to simulate 
 **3. The Dataset** 
 
 <br>
-The dataset is the file 'tutorialRevLearn_low_s014_data.mat'. It contains data of an individual player of this game. It is a nested structure array. One of its first-level fields is called 'data'. 
+The dataset is the file 'tutorialRevLearn_low_s014_data.mat'. It contains data of an individual player of this game. It is a nested structure array.  
 
-Two of the fields that '**data**' contains are: 
+One of the first-level fields '**data**' contains the following: 
 
 1. **'choice'** 
 
